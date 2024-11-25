@@ -15,7 +15,8 @@ To add
 - Better Proxies Integration
 - Proxy Sentries (from prev project)
 - Enable multitab scrapper (use tab with profile mode to split cookies/cache and make queries with different fingerprint).
-  
+- Captcha Solver (with external lib)
+- Integration of flaresolver to bypass Cloudflare lock  
 
 
 
